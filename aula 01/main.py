@@ -11,8 +11,19 @@
 
 
 # 13
-palavra1 = input("fala uma palavra aí: ")
+# palavra1 = input("fala uma palavra aí: ")
 
-palavra2 = input("fala uma palavra aí: ")
-if palavra1 == palavra2:
-    print(f'{palavra1} é igual a {palavra2}')
+# palavra2 = input("fala uma palavra aí: ")
+
+
+# idade = input('digite sua idade: ')
+# cnh= input('você tem cnh?').lower()
+
+# if idade < 18 :
+#     print('você não pode ter cnh')
+# elif idade >= 18:
+#     print ('você tem cnh?')
+#     elif idade >= 18 and cnh 
+    
+    
+    
